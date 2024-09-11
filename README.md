@@ -34,7 +34,6 @@ This project performs data analysis on movies using the TMDB (The Movie Database
 
 - Python 3.x
 - A TMDB API key (You can get it from [TMDB](https://www.themoviedb.org/documentation/api))
-- Jupyter Notebook or any other Python IDE
 
 ### Installation
 
