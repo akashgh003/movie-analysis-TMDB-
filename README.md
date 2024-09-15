@@ -8,7 +8,7 @@ This project performs data analysis on movies using the TMDB (The Movie Database
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-red?style=for-the-badge)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 
 ## 🚀 Features
 
